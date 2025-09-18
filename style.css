@@ -1,9 +1,15 @@
 body {
-    background-color: midnightblue;
-    color:lightskyblue;
+    background-color: midnightblue; /* cor de fundo da página*/
+    color:lightskyblue; /* cor da escrita */
 }
 
 h1 {
-    font-size: 30px;
-    text-align: center;
+    font-size: 30px; /* tamanho da fonte */
+    text-align: center; /* centralizado*/
+    text-transform: uppercase; /* letras maiúsculas*/
+}
+
+p {
+    font-size: 16px;
+    color: aliceblue;
 }
