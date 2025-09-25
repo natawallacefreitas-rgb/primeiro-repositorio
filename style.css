@@ -1,6 +1,13 @@
 body {
-    background-color: midnightblue; /* cor de fundo da página*/
-    color:lightskyblue; /* cor da escrita */
+    background-color: rgb(93, 139, 213); /* cor de fundo da página*/
+    color:midnightblue; /* cor da escrita */
+}
+
+header {
+    border: solid 2px rgb(255, 255, 255);
+    font-size: 32px;
+    padding: 10px;
+    color: aliceblue;
 }
 
 h1 {
