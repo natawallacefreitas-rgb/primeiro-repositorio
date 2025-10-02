@@ -4,10 +4,10 @@ body {
 }
 
 header {
-    border: solid 2px rgb(93, 139, 213);
+    border: solid 2px midnightblue;
     font-size: 32px;
     padding: 10px;
-    color: rgb(20, 91, 172);
+    color: rgb(93, 139, 213);
 }
 
 h1 {
