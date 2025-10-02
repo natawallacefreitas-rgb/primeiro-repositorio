@@ -1,13 +1,13 @@
 body {
-    background-color: rgb(17, 98, 191); /* cor de fundo da página*/
-    color:rgb(255, 255, 255); /* cor da escrita */
+    background-color: rgb(13, 58, 108); /* cor de fundo da página*/
+    color:rgb(226, 226, 226); /* cor da escrita */
 }
 
 header {
-    border: solid 2px rgb(255, 255, 255);
+    border: solid 2px rgb(221, 216, 216);
     font-size: 32px;
     padding: 10px;
-    color: alicered;
+    color: white;
 }
 
 h1 {
