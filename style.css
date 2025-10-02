@@ -1,6 +1,7 @@
 body {
     background-color: rgb(13, 58, 108); /* cor de fundo da página*/
     color:rgb(226, 226, 226); /* cor da escrita */
+    font-family: "Montserrat", sans-serif;
 }
 
 header {
