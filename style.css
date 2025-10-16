@@ -2,6 +2,8 @@ body {
     background-color: rgb(13, 58, 108); /* cor de fundo da página*/
     color:rgb(226, 226, 226); /* cor da escrita */
     font-family: "Montserrat", sans-serif;
+    margin: 0px;
+    margin-bottom: 100px;
 }
 
 header {
@@ -11,7 +13,7 @@ header {
     color: white;
 }
 
-section {
+.chamada {
     background-color: rgb(34, 121, 207);
     padding-bottom: 80px;
     padding-top: 80px;
@@ -32,4 +34,30 @@ h1 {
 p {
     font-size: 16px;
     color: alicered;
+}
+
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.categoria-videos {
+    display: flex;
+    overflow: auto;
+    gap: 10px;
+}
+
+.categoria-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.categoria-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid green;
+}
+
+.categoria h2 {
+    color: rgba(182, 136, 20, 0.507);
 }
